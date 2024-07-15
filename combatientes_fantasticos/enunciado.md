@@ -25,3 +25,18 @@ Aclaraciones
     que alguien en cero hit points no puede actuar más (empiezan en 20)
 
     seguramente necesiten más mensajes en el Combatiente para poder resolver la información que se necesita al finalizar el combate
+    
+## Extra? 
+
+Queremos agrandar el repertorio de combatientes a:
+  Humano (el que ya tenemos)
+  Ogro (como el Combatiente pero 40 puntos de vida, hace 8 de daño cuando ataca)
+  Mago (como el Combatiente pero ataca a los 6 más sanos por 2 de daño cada uno, no puede cambiar de estrategia)
+  Hostigador (como el Combatiente pero ataca un turno al más y el otro al menos dañado, no puede cambiar de estrategia, empieza atacando al más sano).
+
+Notas:
+Se va a evaluar:
+  Que las clases concretas y abstractas esten bien usadas y expresadas
+  Composición por sobre subclasificación
+Esta mas sano un ogro con 21 de 40 que un humano con 20 de 20.
+Ya existen todos los mensajes que van a necesitar para manipular las colecciones. No tienen que inventar ninguno.
