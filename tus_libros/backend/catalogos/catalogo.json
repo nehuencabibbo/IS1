@@ -1,0 +1,32 @@
+[
+    {
+    "isbn": "9780137314942",
+    "title": "Modern Software Engineering",
+    "precio": 31505
+    },
+    {
+    "isbn": "9780321278654",
+    "title": "Extreme Programming Explained",
+    "precio": 45305
+    },
+    {
+    "isbn": "9780201710915",
+    "title": "Planning Extreme Programming",
+    "precio": 45180
+    },
+    {
+    "isbn": "9780321125217",
+    "title": "Domain-Driven Design",
+    "precio": 41000
+    },
+    {
+    "isbn": "9780735619654",
+    "title": "Object Thinking",
+    "precio": 34900
+    },
+    {
+    "isbn": "9780321146533",
+    "title": "Test Driven Development: By Example",
+    "precio": 29100
+    }
+]
